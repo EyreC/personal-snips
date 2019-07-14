@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle eyre-c-snippets",
+        "command": "eyre-c-snippets:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "eyre-c-snippets",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "eyre-c-snippets:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

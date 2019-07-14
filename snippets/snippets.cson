@@ -1,0 +1,5 @@
+
+'.source.python':
+    'EyreC':
+      'prefix': 'eyre'
+      'body': 'print("Eyre Craggs was here.")'
